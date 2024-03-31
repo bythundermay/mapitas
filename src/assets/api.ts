@@ -1,0 +1,1 @@
+export const api = 'AIzaSyCJkN9jJxIfbt5P1fWgD6WPszBFmIYKdaI'
